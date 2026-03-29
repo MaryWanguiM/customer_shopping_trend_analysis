@@ -1,4 +1,4 @@
-# customer_shopping_trend_analysis - SQL Project
+# shopping-trends-analysis-sql-analysis
 In this project, I sourced a customer sales trends dataset from Kaggle. I take on the role of customer analytics Lead for a large retail store, hired to help them answer;
 What items should be stocked, and when, to maximize sales and profits, reduce lost sales, and minimize dead stock?
 ## Phase 1: Understanding the problem
@@ -67,3 +67,11 @@ Adapt to gender demand.
 Change with the seasons.
 Be tailored to the location.
 Focus should be on loyal, repeat customers.
+
+## Dataset
+The dataset used in this analysis was sourced from Kaggle:
+
+🔗 [https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+
+## Description
+This dataset contains customer purchase behavior across seasons, locations, and product categories.
